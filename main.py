@@ -7,7 +7,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-st.sidebar.title("DVWA Exploits")
+st.sidebar.title("DVWA")
 st.sidebar.image("https://example.com/logo.png", width=200)
 
 pages = {
